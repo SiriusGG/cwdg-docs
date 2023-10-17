@@ -3,7 +3,7 @@
 configurable-world-domination-game (or cwdg for short) is an open source, platform independant video game adaptation of the board game "Risk". It is, as the name implies, highly configurable and supports rules from various releases of the official rule book as well as many well-established house rules.
 
 ## How to play?
-1. Make sure you have the latest JRE (Java Runtime Environment) installed.
+1. Make sure you have the JRE (Java Runtime Environment) installed (JRE 8 is recommended).
    
 2. Download the latest version of ```cwdg.jar``` from our Discord.
    
